@@ -1,0 +1,20 @@
+com.ifgabsp.project_get.app-browser-1.4.0-0 C:\Users\Reixur\.gradle\caches\transforms-3\162e57b214e200a6207c40330426bda2\transformed\browser-1.4.0\res
+com.ifgabsp.project_get.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Reixur\.gradle\caches\transforms-3\3795200b4ef80330da39fee63b1e3f99\transformed\jetified-annotation-experimental-1.1.0\res
+com.ifgabsp.project_get.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Reixur\.gradle\caches\transforms-3\4f8a10da11d41b9ccabff01515190014\transformed\jetified-window-java-1.0.0-beta04\res
+com.ifgabsp.project_get.app-jetified-firebase-common-20.3.3-3 C:\Users\Reixur\.gradle\caches\transforms-3\9ad14aa1e6d50d814edf3dedd33f8508\transformed\jetified-firebase-common-20.3.3\res
+com.ifgabsp.project_get.app-core-1.6.0-4 C:\Users\Reixur\.gradle\caches\transforms-3\ae42e6c01585f28a5adeac7499fca147\transformed\core-1.6.0\res
+com.ifgabsp.project_get.app-jetified-play-services-basement-18.1.0-5 C:\Users\Reixur\.gradle\caches\transforms-3\b98038a8bb5f558b05cc7fc73ca7ad87\transformed\jetified-play-services-basement-18.1.0\res
+com.ifgabsp.project_get.app-jetified-play-services-base-18.0.1-6 C:\Users\Reixur\.gradle\caches\transforms-3\c7232b6ce4e188bed1222fb6e790465b\transformed\jetified-play-services-base-18.0.1\res
+com.ifgabsp.project_get.app-jetified-window-1.0.0-beta04-7 C:\Users\Reixur\.gradle\caches\transforms-3\fa8aad42c825af1f34f93ab9a34c8ecb\transformed\jetified-window-1.0.0-beta04\res
+com.ifgabsp.project_get.app-debug-8 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\android\app\src\debug\res
+com.ifgabsp.project_get.app-main-9 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\android\app\src\main\res
+com.ifgabsp.project_get.app-google-services-10 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\app\generated\res\google-services\debug
+com.ifgabsp.project_get.app-pngs-11 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\app\generated\res\pngs\debug
+com.ifgabsp.project_get.app-resValues-12 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\app\generated\res\resValues\debug
+com.ifgabsp.project_get.app-rs-13 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\app\generated\res\rs\debug
+com.ifgabsp.project_get.app-mergeDebugResources-14 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.ifgabsp.project_get.app-mergeDebugResources-15 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.ifgabsp.project_get.app-merged_res-16 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\app\intermediates\merged_res\debug
+com.ifgabsp.project_get.app-packaged_res-17 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\cloud_firestore\intermediates\packaged_res\debug
+com.ifgabsp.project_get.app-packaged_res-18 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\firebase_auth\intermediates\packaged_res\debug
+com.ifgabsp.project_get.app-packaged_res-19 C:\Users\Reixur\Documents\Quest\! 135ZZZZ\project_get\build\firebase_core\intermediates\packaged_res\debug
